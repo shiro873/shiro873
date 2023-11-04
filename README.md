@@ -73,14 +73,7 @@ Here are some ideas to get you started:
 
 </details> -->
 
-<div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=shiro873&theme=dark&show_icons=true"/>
-  </div>
-<br>
+<img href="https://github.com/shiro873/github-readme-stats" src="https://github-readme-stats.vercel.app/api?username=shiro873&show_icons=true&theme=react&hide_border=true&count_private=true&hide=stars" />
 
-<div align="center">
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shiro873&bg_color=0e0e0e&hide_border=true"/>
-<br>
-</div>
-<br>
+<br />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shiro873&theme=react&hide_border=true" alt="shiro873" />
